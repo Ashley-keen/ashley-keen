@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hello and Welcome!
+My name is Ashley Keen and I am a current full stack developer graduate looking for my next big project!
 
-<!--
-**Ashley-keen/ashley-keen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Tech Stack ⋆.𐙚 ̊
+---
+- HTML
+- CSS
+    - Tailwind
+- Javascript
+    - React
+- Python
+- PHP
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Cloud Services
+    - AWS
+    - Microsoft Azure
+
+
+### Featured Projects ⋆.𐙚 ̊
+---
+
+Watch this space 
+
+### Contact Links ⋆.𐙚 ̊
+---
+
+
+
+### Learning Goals ⋆.𐙚 ̊
+---
