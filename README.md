@@ -21,7 +21,7 @@ My name is Ashley Keen and I am a current full stack developer graduate looking 
 ### Featured Projects ⋆.𐙚 ̊
 ---
 
-Watch this space 
+[Wedding Invitation Site](https://github.com/Ashley-keen/wedding-invitation)
 
 ### Contact Links ⋆.𐙚 ̊
 ---
